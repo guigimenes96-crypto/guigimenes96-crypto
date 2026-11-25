@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**guigimenes96-crypto/guigimenes96-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Logística | Supply Chain | Data Analytics
 
-Here are some ideas to get you started:
+Profissional de logística com foco na aplicação da análise de dados à gestão de operações e à tomada de decisões.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação acadêmica
+
+- Tecnólogo em Logística
+- MBA em Logística e Supply Chain
+- Pós-graduação em Análise e Engenharia de Dados
+
+## 🛠️ Ferramentas e tecnologias
+
+- Microsoft Excel — Avançado
+- Microsoft Power BI — Intermediário
+- SQL — Em aprendizado
+- Python — Em aprendizado
+
+## 🚀 Projeto em destaque
+
+**[Logistics Intelligence 360](https://github.com/guigimenes96-crypto/logistics-intelligence-360)**
+
+Projeto de portfólio voltado à integração entre logística, inteligência de negócios e análise de dados.
+
+## 🎯 Objetivo profissional
+
+Transformar dados em informações estratégicas para apoiar decisões, identificar oportunidades de melhoria e contribuir para a eficiência das operações logísticas.
+
+📍 Região de Campinas, SP — Brasil
