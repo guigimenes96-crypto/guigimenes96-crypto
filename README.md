@@ -19,7 +19,7 @@ Profissional de logística com foco na aplicação da análise de dados à gest�
 
 ## 🚀 Projeto em destaque
 
-**[Logistics Intelligence 360](https://github.com/guigimenes96-crypto/logistics-intelligence-360)**
+**[Logistics Intelligence 360](https://github.com/guigimenes96-crypto/elg-solucoes-em-transporte#logistics-intelligence-360)**
 
 Projeto de portfólio voltado à integração entre logística, inteligência de negócios e análise de dados.
 
